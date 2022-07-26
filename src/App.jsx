@@ -5,24 +5,24 @@ import NewExpense from "./components/NewExpense/NewExpense";
 const DUMMY_EXPENSES = [
   {
     id: 'e1',
-    title: 'Toilet Paper',
-    amount: 94.12,
+    title: 'Headphone',
+    amount: 1000,
     date: new Date(2022, 7, 18)
   },
   {
     id: 'e2',
-    title: 'New TV',
-    amount: 789.67,
+    title: 'Carry Bag',
+    amount: 800,
     date: new Date(2020, 2, 12)
   },
   {
     id: 'e3',
-    title: 'Car Insurance',
+    title: 'Novel',
     amount: 234.56,
     date: new Date(2022, 4, 5)
   },{
     id: 'e4',
-    title: 'New Desh',
+    title: 'Calculator',
     amount: 456,
     date: new Date(2019, 7, 10)
   }
